@@ -37,7 +37,7 @@
 
 ### Meurthe et Moselle
 
-- [Apéro Web Nancy](https://aperowebnancy.netlify.app/) - Meetup mensuel toutes technos qui touchent le Web à Nancy
+- [Apéro Web Nancy](https://aperowebnancy.netlify.app/) - Meetup mensuel toutes technos qui touchent le Web à Nancy.
 
 ### Meuse
 
