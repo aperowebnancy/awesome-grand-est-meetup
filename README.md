@@ -23,6 +23,10 @@
 
 ### Bas-Rhin
 
+- [ElsassJUG](https://www.meetup.com/fr-FR/ElsassJUG/) - Le Java User Group d'Alsace.
+- [Microsoft User Group Strasbourg](https://www.meetup.com/fr-FR/MugStrasbourg/) - Communauté sur les produits et technologies Microsoft.
+- [Strasbourg AWS User Group](https://www.meetup.com/fr-FR/AWS-User-Group-Strasbourg/) - Meetup pour parler d'Amazon Web Services.
+
 ### Haut-Rhin
 
 ## Champagne-Ardenne
@@ -33,15 +37,23 @@
 
 ### Marne
 
+- [Sacrée Tech](https://www.meetup.com/fr-FR/SacreeTech/) - Réunie les communautés Tech existantes à Reims.
+- [Reims AWS User Group](https://www.meetup.com/fr-FR/Groupe-Meetup-Reims-Amazon-Web-Services/) - Meetup pour parler d'Amazon Web Services.
+
 ## Lorraine
 
 ### Meurthe et Moselle
 
-- [Apéro Web Nancy](https://aperowebnancy.netlify.app/) - Meetup mensuel toutes technos qui touchent le Web à Nancy.
+- [AFUP Lorraine](https://www.meetup.com/fr-FR/afup-lorraine-php/) - Rassemble les professionnel(le)s et étudiant(e)s PHP de Lorraine.
+- [Apéro Web Nancy](https://aperowebnancy.netlify.app/) - Meetup mensuel toutes technos qui touchent au Web à Nancy.
+- [Google Atelier Numérique Nancy](https://www.meetup.com/fr-FR/Atelier-Numerique-Google-Nancy/) - Pour des découvertes et expériences dédiées au numérique.
+- [Lorraine JUG](https://twitter.com/lorrainejug) - Meetup du Java User Group Lorraine.
 
 ### Meuse
 
 ### Moselle
+
+- [AFUP Lorraine](https://www.meetup.com/fr-FR/afup-lorraine-php/) - Rassemble les professionnel(le)s et étudiant(e)s PHP de Lorraine.
 
 ### Vosges
 
