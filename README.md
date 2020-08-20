@@ -1,4 +1,4 @@
-# Awesome Regions Grand Est Meetup [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [<img src="grand-est-logo.svg" width="250" align="right" alt="Awesome Grand Est tech Meetup">](https://www.cloudflare.com)
+# Awesome Regions Grand Est Meetup [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [<img src="grand-est-logo.svg" width="250" align="right" alt="Awesome Grand Est tech Meetup">](https://www.grandest.fr/)
 
 > Une liste de tout les Meetups tech de la Region Grand-Est.
 
