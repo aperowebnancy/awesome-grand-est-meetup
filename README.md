@@ -28,6 +28,7 @@
 - [ElsassJUG](https://www.meetup.com/fr-FR/ElsassJUG/) - Le Java User Group d'Alsace.
 - [Microsoft User Group Strasbourg](https://www.meetup.com/fr-FR/MugStrasbourg/) - Communauté sur les produits et technologies Microsoft.
 - [Strasbourg AWS User Group](https://www.meetup.com/fr-FR/AWS-User-Group-Strasbourg/) - Meetup pour parler d'Amazon Web Services.
+- [Vue Strasbourg](https://twitter.com/VueStrasbourg) - Communauté Vue.js.
 
 ### Haut-Rhin
 
