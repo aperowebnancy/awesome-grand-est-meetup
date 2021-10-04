@@ -4,8 +4,6 @@
 
 #### _Si vous voyez ici un meetup qui n'existe plus ou qui ne convient pas, veuillez créer une issue pour améliorer ce fichier. Merci !_
 
-![Check Markdown links](https://github.com/aperowebnancy/awesome-grand-est-meetup/workflows/Check%20Markdown%20links/badge.svg)
-
 ## Régions
 
 - [Alsace](#alsace)
